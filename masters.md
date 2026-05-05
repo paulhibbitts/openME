@@ -6,7 +6,7 @@ Having this course makes it obvious that Boston dynamics is performing elementar
 
 * get [dynamics notebook](/docs/ME613_Notebook.pdf) with syllabus, exams, and homeworks
 * get [dynamics lecture slides](./docs/ME613_LectureSlides.pdf) with the provided slides for the course
-* get [dynamics matlab guide](docs/ME613_MatlabGuide.pdf) which is a whole printed text for implementing dynamics in matlab
+* get [dynamics matlab guide](https://github.com/paulhibbitts/openME/blob/main/docs/ME613_MatlabGuide.pdf) which is a whole printed text for implementing dynamics in matlab
 * get [dynamics lecture notes](docs/ME613_LectureNotes.pdf), the slides complemented with my notes
 
 If you pass this course you're equipped to build a boston dynamics robot but not the Toyota's Miro, which handles a flexible basketball that interacts with air and rotating inertias to dribble and land a freethrow.  In the photos from left: a snip of the textbook cover, the robot that can be built with the course knowledge, and a more advanced robot which requires more sophisticated dynamics.
