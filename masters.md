@@ -4,7 +4,7 @@ This is the graduate-level course sister to the undergraduate-level dynamics cou
 
 Having this course makes it obvious that Boston dynamics is performing elementary engineering tasks, the same we would expect to see before humans ever reached the moon.  Notice the severe limitation of this material that all of the bodies are still theoretical, rigid parts with no flexure.  That means if you build a robot and you want to compute it's motion with basic mathematics, you'll spend huge sums of money to buy exotic stiff materials and lightweighting by heavy CNC carving.  You'd reduce mass sufficiently that each body has little inertia, so that each body can remain rigid enough to make all the dynamics computations without requiring knowledge of bending conditions, thermal stresses, or any characteristics that change throughout time. The human arm has ligaments that stretch during the pitch of a baseball while a rudimetary robot has no elongation of any members.  And the robot would not handle flexible materials, only those estimated as point masses.
 
-* get [dynamics notebook](docs/ME613_Notebook.pdf) with syllabus, exams, and homeworks
+* get [dynamics notebook](/ME613_Notebook.pdf) with syllabus, exams, and homeworks
 * get [dynamics lecture slides](docs/ME613_LectureSlides.pdf) with the provided slides for the course
 * get [dynamics matlab guide](docs/ME613_MatlabGuide.pdf) which is a whole printed text for implementing dynamics in matlab
 * get [dynamics lecture notes](docs/ME613_LectureNotes.pdf), the slides complemented with my notes
